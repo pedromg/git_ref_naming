@@ -1,2 +1,4 @@
 bar.1: hello bar
+ bar.1.test: ladies and gentleman, welcome into the famous test branch
 bar.2: bye bar
+ var.2.test: take you seats please... 
