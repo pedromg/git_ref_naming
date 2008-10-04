@@ -4,3 +4,4 @@ foo.3: new stuff:
   foo.3.1: added tags on master branch: test test1
   foo.3.2: checked out to branch test
   foo.3.3: will try to commit and push to origin (github)
+  foo.3.4: new tag tag_test
